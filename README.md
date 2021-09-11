@@ -1,7 +1,7 @@
 # Redshift Data Warehouse
 
 ## Project Purpose
-This purpose of this project is to process song and songplay data into a data warehoouse in Amazon Redshift.
+This purpose of this project is to process song and songplay data into a data warehouse in Amazon Redshift.
 
 ## Datasets
 The song data comes from the One Million Songs dataset, while the songplay data is simulated. Both datasets are collections of JSON files stored on AWS S3.
