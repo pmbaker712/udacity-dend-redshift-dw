@@ -1,5 +1,7 @@
 # Redshift Data Warehouse
 
+A project for Udacity's Data Engineering Nanodegree.
+
 ## Project Purpose
 This purpose of this project is to process song and songplay data into a data warehouse in Amazon Redshift.
 
